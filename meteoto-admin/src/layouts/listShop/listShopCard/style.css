@@ -1,0 +1,8 @@
+.ab{
+    width: 100%;
+    display:flex ;
+    /* background-color: aquamarine; */
+   justify-content: space-between;
+   align-items: center;
+
+}
